@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langgraph
+chromadb
+pypdf
+python-dotenv
+ipykernel
+langchain_community
+unstructured

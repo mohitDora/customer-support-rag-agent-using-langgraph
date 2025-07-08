@@ -1,0 +1,126 @@
+QuantumFlow Smart Water Purifier - Troubleshooting Guide
+Model: QF-2025
+
+This guide provides solutions to common issues you might encounter with your QuantumFlow Smart Water Purifier. For more detailed information, please refer to the User Manual or contact customer support.
+
+---
+
+ISSUE 1: NO WATER DISPENSING OR VERY SLOW FLOW
+
+Possible Causes & Solutions:
+
+1.  LOW INPUT WATER PRESSURE:
+    * Check your main water supply valve to ensure it's fully open.
+    * Verify if there's sufficient water pressure in your household. (e.g., check other taps).
+    * Solution: Ensure adequate water supply and pressure to the purifier's inlet.
+
+2.  CLOGGED FILTERS:
+    * Check the filter status indicators on the purifier's LED display or in the QuantumFlow Connect app.
+    * Yellow or Red lights indicate filters are nearing end-of-life or need immediate replacement.
+    * Solution: Order and replace the indicated filters (Sediment, Pre-Carbon, RO Membrane). Refer to the User Manual for filter replacement instructions and part numbers.
+
+3.  AIR LOCK IN THE SYSTEM:
+    * This can occur after initial installation or filter replacement.
+    * Solution: Turn off the purifier for 5 minutes, then turn it back on. Open the dispense valve for a few minutes to allow any trapped air to escape. Repeat if necessary.
+
+4.  FAULTY SOLENOID VALVE (SV):
+    * The SV controls water flow into the purifier. If it fails, water won't enter.
+    * Solution: This requires professional inspection. Contact customer support.
+
+5.  BLOCKED RO MEMBRANE:
+    * The RO membrane can get severely clogged, especially with high TDS input water.
+    * Solution: The RO membrane will need replacement. This is usually indicated by a persistent red light for the RO filter.
+
+---
+
+ISSUE 2: STRANGE TASTE OR ODOR IN PURIFIED WATER
+
+Possible Causes & Solutions:
+
+1.  NEW FILTER TASTE:
+    * A slight plastic or carbon taste can be present immediately after new filter installation.
+    * Solution: Perform an initial flush as described in the User Manual (dispense and discard 15-20 liters of water).
+
+2.  EXPIRED CARBON FILTER:
+    * The Pre-Carbon filter (QF-PC01) removes chlorine and organic impurities responsible for taste and odor. If it's expired, taste issues can arise.
+    * Solution: Check filter status. If the Pre-Carbon filter is yellow/red, replace it.
+
+3.  CONTAMINATED STORAGE TANK/SPIGOT:
+    * Solution: Clean the external parts of the purifier and spigot regularly with a soft, damp cloth. If you suspect internal tank contamination, contact customer support for guidance.
+
+4.  RO MEMBRANE FOULING:
+    * If the RO membrane is severely fouled or damaged, it might not effectively remove impurities.
+    * Solution: Replace the RO membrane (QF-RO01).
+
+---
+
+ISSUE 3: WATER LEAKAGE
+
+Possible Causes & Solutions:
+
+1.  LOOSE FITTINGS/CONNECTIONS:
+    * Check all plumbing connections (inlet pipe, outlet pipe, drain connection) for tightness.
+    * Solution: Gently tighten any loose fittings. Do not overtighten.
+
+2.  DAMAGED O-RINGS OR SEALS:
+    * Over time, rubber seals can wear out or become dislodged.
+    * Solution: Turn off water supply and power. Inspect seals around filter housings. If damaged, contact customer support for replacement parts or service.
+
+3.  CRACKED HOUSING/UNIT:
+    * Inspect the purifier unit for any visible cracks, especially after accidental impact.
+    * Solution: If a crack is found, immediately turn off water and power and contact customer support. Do not attempt to repair yourself.
+
+4.  FULL DRAIN LINE:
+    * Ensure the drain line is not kinked or blocked, preventing wastewater from flowing out freely.
+    * Solution: Straighten any kinks and clear any blockages in the drain line.
+
+---
+
+ISSUE 4: APP CONNECTIVITY ISSUES (QuantumFlow Connect App)
+
+Possible Causes & Solutions:
+
+1.  WI-FI/BLUETOOTH OFF OR OUT OF RANGE:
+    * Solution: Ensure your phone's Wi-Fi and Bluetooth are enabled. Make sure the purifier is within range of your Wi-Fi router.
+
+2.  INCORRECT PAIRING PROCEDURE:
+    * Solution: Refer to Section 6.1 in the User Manual ("Smart Features & App Integration") for detailed pairing instructions. Ensure you are pressing the Wi-Fi button on the purifier for the correct duration.
+
+3.  ROUTER OR INTERNET ISSUES:
+    * Solution: Restart your Wi-Fi router. Check if your internet connection is working normally for other devices.
+
+4.  APP GLITCH:
+    * Solution: Close and restart the QuantumFlow Connect app. Try restarting your phone.
+
+5.  PURIFIER WI-FI MODULE ISSUE:
+    * Solution: If all else fails, try resetting the purifier's Wi-Fi connection (refer to manual for specific button sequence, usually pressing the Wi-Fi button for 10-15 seconds until it resets). Then attempt to re-pair. If problems persist, contact customer support.
+
+---
+
+ISSUE 5: UNUSUAL NOISE FROM THE PURIFIER
+
+Possible Causes & Solutions:
+
+1.  NORMAL OPERATING NOISE:
+    * Some noise (humming, gurgling) is normal during purification cycles, especially from the pump and drain.
+    * Solution: This is usually not a concern unless the noise is excessively loud or unusual.
+
+2.  AIR IN THE SYSTEM:
+    * Similar to slow flow, air can cause gurgling or bubbling noises.
+    * Solution: Allow the unit to run and dispense water for a while to clear trapped air.
+
+3.  LOOSE COMPONENTS/VIBRATION:
+    * Solution: Gently check if the unit is stable on a flat surface. Ensure no pipes are rattling against the cabinet.
+
+4.  PUMP MALFUNCTION:
+    * A loud, grinding, or whining noise could indicate a pump issue.
+    * Solution: Contact customer support for diagnosis and possible repair.
+
+---
+
+For any issues not covered in this guide, or if the suggested solutions do not resolve your problem, please do not hesitate to contact QuantumFlow Customer Support.
+
+QuantumFlow Customer Support:
+Phone: 1800-123-4567
+Email: support@quantumflow.com
+Website: www.quantumflow.com/support

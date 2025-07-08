@@ -1,0 +1,87 @@
+QuantumFlow Smart Water Purifier - Frequently Asked Questions (FAQ)
+
+This document addresses common questions about your QuantumFlow Smart Water Purifier (Model QF-2025).
+
+---
+
+GENERAL QUESTIONS
+
+Q1: What makes the QuantumFlow Smart Water Purifier "smart"?
+A1: The QuantumFlow QF-2025 is smart due to its AI-powered monitoring system, real-time water quality analysis, filter life prediction, and seamless integration with the "QuantumFlow Connect" mobile app. This allows for remote control, usage tracking, and intelligent alerts.
+
+Q2: What type of filtration does the QuantumFlow use?
+A2: The QF-2025 utilizes a multi-stage purification process including Reverse Osmosis (RO), Ultraviolet (UV), Ultrafiltration (UF), and an Alkaline Enhancer for superior water quality.
+
+Q3: What is the storage capacity of the QuantumFlow?
+A3: The QuantumFlow QF-2025 has a purified water storage tank capacity of 7 liters.
+
+Q4: Is professional installation required?
+A4: While the user manual provides detailed installation instructions for DIY enthusiasts, professional installation is recommended if you are not comfortable with basic plumbing connections. Please contact QuantumFlow customer support for certified installers in your area.
+
+---
+
+OPERATION & FEATURES
+
+Q5: How do I connect my QuantumFlow to the mobile app?
+A5: Download the "QuantumFlow Connect" app. Ensure your phone's Bluetooth is on. Open the app and follow the pairing instructions. You may need to press and hold the Wi-Fi button on the purifier for 5 seconds until the indicator blinks.
+
+Q6: How do I activate the self-cleaning mode?
+A6: The self-cleaning mode can be activated via the "QuantumFlow Connect" mobile app or by pressing and holding the dedicated self-clean button on the purifier for 3 seconds. It's recommended to run this mode monthly.
+
+Q7: What do the LED filter status indicators mean?
+A7:
+- Green Light: Filter status is good.
+- Yellow Light: Filter is nearing the end of its life and should be prepared for replacement soon.
+- Red Light: Filter replacement is required immediately for optimal performance and water quality.
+
+Q8: Can I dispense water remotely using the app?
+A8: Yes, the "QuantumFlow Connect" app allows you to remotely control water dispensing, monitor water quality, and track filter life.
+
+---
+
+MAINTENANCE & TROUBLESHOOTING
+
+Q9: How often do I need to replace the filters?
+A9: Filter replacement frequency varies based on input water quality and usage. Generally, filters should be replaced every 6-12 months, or when indicated by the mobile app or the purifier's LED filter status indicators (yellow/red light).
+
+Q10: Where can I buy replacement filters?
+A10: Genuine QuantumFlow replacement filters can be purchased directly from our official website (www.quantumflow.com/shop) or authorized dealers. Refer to your user manual for correct filter model numbers (e.g., QF-SF01, QF-RO01).
+
+Q11: What should I do if the water flow is very slow?
+A11: Slow water flow can indicate several issues:
+1. Clogged Filters: Check the filter status indicators. If yellow or red, filters need replacement.
+2. Low Input Water Pressure: Ensure your main water supply is fully open and has adequate pressure.
+3. Air Lock: Sometimes, air trapped in the system can cause slow flow. Try turning the unit off and on, and dispensing water a few times.
+4. RO Membrane Issue: If other filters are fine, the RO membrane might be clogged, especially with hard water.
+
+Refer to the "QuantumFlow Troubleshooting Guide" for more detailed steps.
+
+Q12: Why does my purified water taste strange?
+A12: A strange taste can occur if:
+1. New Filters: A slight taste might be present immediately after installing new filters; flush the system for 15-20 minutes.
+2. Expired Filters: Filters, especially the carbon filter, might be exhausted. Replace them.
+3. Contamination: Ensure the storage tank and dispensing area are clean.
+
+Q13: My app is not connecting to the purifier. What should I do?
+A13:
+1. Ensure your Wi-Fi router is working and the purifier is within range.
+2. Restart your phone, the app, and the QuantumFlow purifier.
+3. Ensure Bluetooth is enabled on your phone for initial pairing.
+4. If the issue persists, try resetting the Wi-Fi connection on the purifier (refer to manual) and re-pairing.
+
+---
+
+WARRANTY & SUPPORT
+
+Q14: What is the warranty period for the QuantumFlow QF-2025?
+A14: The QuantumFlow QF-2025 comes with a 2-year limited warranty covering manufacturing defects from the date of purchase.
+
+Q15: Does the warranty cover filter replacements?
+A15: No, the warranty typically does not cover consumable parts like filters, which require periodic replacement due to normal wear and tear and usage.
+
+Q16: How can I contact customer support?
+A16:
+- Phone: 1800-123-4567 (Toll-Free, Mon-Fri, 9 AM - 6 PM IST)
+- Email: support@quantumflow.com
+- Website: www.quantumflow.com/support
+- Live Chat: Available on our website during business hours.
