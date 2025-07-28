@@ -1,0 +1,16 @@
+{
+  "knowledge_base": {
+    "CHROMA_DB_DIR": "chroma_db",
+    "COLLECTION_NAME": "customer_support_knowledge",
+    "RAW_DOCS_DIR": "data"
+  },
+  "llm_config": {
+    "EMBEDDING_MODEL": "models/embedding-001",
+    "GENERATION_MODEL": "gemini-2.0-flash",
+    "LLM_TEMPERATURE": 0.2
+  },
+  "agent_config": {
+    "MAX_RETRIEVAL_ATTEMPTS": 3,
+    "MAX_RETRIEVAL_CHUNKS": 3
+  }
+}
