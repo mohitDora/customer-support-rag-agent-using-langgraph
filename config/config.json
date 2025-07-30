@@ -2,7 +2,8 @@
   "knowledge_base": {
     "CHROMA_DB_DIR": "chroma_db",
     "COLLECTION_NAME": "customer_support_knowledge",
-    "RAW_DOCS_DIR": "data"
+    "RAW_DOCS_DIR": "data",
+    "MANIFEST_PATH": "data/ingest_manifest.json"
   },
   "llm_config": {
     "EMBEDDING_MODEL": "models/embedding-001",
