@@ -7,3 +7,5 @@ python-dotenv
 ipykernel
 langchain_community
 unstructured
+ruff
+-e .

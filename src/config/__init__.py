@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
-from utils.common import read_json
-from constants import BASE_DIR
+from src.utils.common import read_json
+from src.constants import BASE_DIR
 from pathlib import Path
 
 load_dotenv()
@@ -23,3 +23,8 @@ class ConfigurationManager:
     def get_agent_config(self):
         config = self.config["agent_config"]
         return config
+
+if __name__ == "__main__":
+    config = ConfigurationManager()
+    knowledge_base_config = config.get_knowledge_base_config()
+    print(knowledge_base_config)

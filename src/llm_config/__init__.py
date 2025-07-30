@@ -1,5 +1,5 @@
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
-from config import ConfigurationManager
+from src.config import ConfigurationManager
 
 config = ConfigurationManager()
 llm_config = config.get_llm_config()
@@ -24,9 +24,5 @@ def get_gemini_embeddings():
         google_api_key=GOOGLE_API_KEY
     )
 
-if __name__ == "__main__":
-    LLM = get_gemini_llm()
-    EMBEDDINGS = get_gemini_embeddings()
-
-    print(LLM)
-    print(EMBEDDINGS)
+LLM = get_gemini_llm()
+EMBEDDINGS = get_gemini_embeddings()
