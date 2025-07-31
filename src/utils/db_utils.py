@@ -1,4 +1,5 @@
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
+
 from src.config import ConfigurationManager
 from src.llm_config import EMBEDDINGS
 

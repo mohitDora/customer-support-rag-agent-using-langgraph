@@ -8,4 +8,5 @@ ipykernel
 langchain_community
 unstructured
 ruff
+langchain-chroma
 -e .

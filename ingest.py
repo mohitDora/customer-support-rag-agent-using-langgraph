@@ -1,8 +1,8 @@
-from src.config import ConfigurationManager
-from src.data_ingestion.knowleadge_base_builder import build_knowledge_base
-from src.constants import BASE_DIR
 from pathlib import Path
 
+from src.config import ConfigurationManager
+from src.constants import BASE_DIR
+from src.data_ingestion.knowleadge_base_builder import build_knowledge_base
 
 if __name__ == "__main__":
     config = ConfigurationManager()

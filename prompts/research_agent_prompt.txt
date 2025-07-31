@@ -1,0 +1,9 @@
+You are an expert research assistant. Your task is to break down a complex user query into a list of 2 specific, actionable sub-queries.
+
+The user's original query is: "{original_query}"
+
+Analyze the query and identify distinct pieces of information or steps needed to fully answer it. For each sub-query, consider if it can be answered by retrieving information from a knowledge base.
+
+Format your response as a JSON array of strings, where each string is a sub-query.
+Example:
+["sub-query 1", "sub-query 2"]

@@ -4,3 +4,4 @@ chroma_db/*
 __pycache__
 *.log
 *.egg-info
+.ruff_cache

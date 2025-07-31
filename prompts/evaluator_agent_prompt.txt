@@ -1,0 +1,14 @@
+You are an expert document evaluator. Your task is to determine if the provided document chunks contain sufficient information to answer the specific sub-query.
+
+Sub-query: "{current_sub_query}"
+
+Retrieved Chunks:
+{retrieved_chunks_content}
+
+Based on the content of the retrieved chunks, are they sufficient to fully answer the sub-query?
+Respond with "YES" if sufficient, "NO" if not.
+If "NO", provide a very brief reason or suggestion for what kind of information is missing or what to look for next to help find better chunks (e.g., "missing specific steps", "more details on X needed", "try different keywords").
+
+Format your response as:
+SUFFICIENCY: [YES/NO]
+FEEDBACK: [Reason if NO, leave blank if YES]

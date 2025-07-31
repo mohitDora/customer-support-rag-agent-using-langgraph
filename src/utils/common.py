@@ -1,4 +1,7 @@
-import json, os
+import json
+import os
+
+from langchain.prompts.chat import ChatPromptTemplate
 
 
 def read_json(file_path):
@@ -29,3 +32,14 @@ def create_directories(path_to_directories: list, verbose=True):
         os.makedirs(path, exist_ok=True)
         if verbose:
             print(f"created directory at: {path}")
+
+
+def read_txt(file_path):
+    with open(file_path, "r") as f:
+        return f.read().strip()
+
+
+def return_prompt_template(file_path) -> ChatPromptTemplate:
+    with open(file_path, "r", encoding="utf-8") as f:
+        template = f.read().strip()
+    return ChatPromptTemplate.from_messages([("system", template)])

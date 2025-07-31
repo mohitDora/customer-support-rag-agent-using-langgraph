@@ -1,21 +1,22 @@
 import os
+from pathlib import Path
+
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import (
     PyPDFLoader,
     TextLoader,
     UnstructuredMarkdownLoader,
 )
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
-from src.llm_config import EMBEDDINGS
+
 from src.constants import BASE_DIR
-from pathlib import Path
-from src.utils.common import create_directories, save_json, read_json
+from src.llm_config import EMBEDDINGS
+from src.utils.common import create_directories, read_json, save_json
 
 
 def build_knowledge_base(
     raw_data_path: str, collection_name: str, chroma_db_dir: str, mainfest_path: str
 ):
-
     if not os.path.exists(raw_data_path):
         raise ValueError(f"Data directory {raw_data_path} does not exist.")
 
