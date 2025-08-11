@@ -17,7 +17,8 @@ class ConfigurationManager:
         config = self.config["knowledge_base"]
         create_directories([Path.joinpath(BASE_DIR, config["CHROMA_DB_DIR"])])
         create_directories([Path.joinpath(BASE_DIR, config["RAW_DOCS_DIR"])])
-        create_directories([Path.joinpath(BASE_DIR, config["MANIFEST_PATH"])])
+        #make ingest_manifest.json if it doesn't exist
+        
         return config
 
     def get_llm_config(self):
