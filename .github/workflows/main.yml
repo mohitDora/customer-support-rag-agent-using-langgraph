@@ -3,10 +3,10 @@ name: RAG Agent CI/CD
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-test:
@@ -51,4 +51,4 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
       - name: Push Docker image
-        run: docker push your_docker_hub_username/rag-agent-ci:latest
+        run: docker push ${{ secrets.DOCKER_USERNAME }}/rag-agent:latest
