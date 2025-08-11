@@ -7,3 +7,7 @@ __pycache__
 .ruff_cache
 rag_evaluation_results.csv
 data/*.json
+data/*.txt
+data/*.pdf
+data/*.md
+/data

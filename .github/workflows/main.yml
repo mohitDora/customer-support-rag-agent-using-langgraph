@@ -26,6 +26,12 @@ jobs:
       - name: Build Docker image
         run: docker build -t rag-agent .
 
+      - name: Set up DVC
+        run: pip install dvc
+    
+      - name: Pull DVC data
+        run: dvc pull
+
       - name: Run Knowledge Base Ingestion (inside container)
         run: docker run --rm -e GEMINI_API_KEY="${{ secrets.GEMINI_API_KEY }}" -v "$(pwd)/vector_db:/app/chromadb" -v "$(pwd)/data/documents:/app/data/" rag-agent python ingest.py
 

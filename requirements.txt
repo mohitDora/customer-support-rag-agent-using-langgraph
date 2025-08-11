@@ -13,4 +13,5 @@ pandas
 tqdm
 fastapi
 uvicorn
+dvc
 -e .
