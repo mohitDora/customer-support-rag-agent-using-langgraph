@@ -11,7 +11,7 @@
     "LLM_TEMPERATURE": 0.2
   },
   "agent_config": {
-    "MAX_RETRIEVAL_ATTEMPTS": 3,
+    "MAX_RETRIEVAL_ATTEMPTS": 2,
     "MAX_RETRIEVAL_CHUNKS": 3
   }
 }
