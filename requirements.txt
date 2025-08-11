@@ -9,4 +9,8 @@ langchain_community
 unstructured
 ruff
 langchain-chroma
+pytest
+pytest-mock
+pandas
+tqdm
 -e .

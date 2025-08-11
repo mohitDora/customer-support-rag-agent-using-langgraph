@@ -5,3 +5,4 @@ __pycache__
 *.log
 *.egg-info
 .ruff_cache
+rag_evaluation_results.csv
