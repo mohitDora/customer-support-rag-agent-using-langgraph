@@ -1,0 +1,9 @@
+.gitignore
+.venv/
+env/
+logs/
+__pycache__/
+*.pyc
+*.egg-info/
+.ruff_cache
+notebooks/

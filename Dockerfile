@@ -2,16 +2,17 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY requirements.txt .
+COPY requirements.txt /app/
+COPY setup.py /app/
+COPY pyproject.toml /app/
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install -r requirements.txt
 
-COPY . .
+COPY . /app/
 
 ENV LANGSMITH_TRACING="true"
 ENV LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
 ENV LANGSMITH_PROJECT="customer-rag-agent"
-ENV PORT 8080
 
 EXPOSE 8080
 
